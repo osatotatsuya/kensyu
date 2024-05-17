@@ -1,1 +1,4 @@
 tokyo
+akita
+saga
+kyoto
